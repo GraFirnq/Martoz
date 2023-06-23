@@ -1,0 +1,75 @@
+/* body {
+    font-family: Hauora-Bold, serif;
+    background: rgb(231, 6, 6);
+    overflow-y: hidden;
+    overflow-x: hidden;
+}  */
+
+ @font-face {
+    font-family: 'Hauora-Bold';
+    font-style: normal;
+    font-weight: 400;
+    src: local("Hauora"),
+    url("../assets/Hauora-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'Hauora-Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local("Hauora"),
+    url("../assets/Hauora-Regular.woff2") format("woff2");
+} 
+
+ .title {
+    text-align: center;
+    margin-top: 10%;
+} 
+
+.img {
+    transition: all 2s ease;
+    border-radius: 50%;
+    max-height: 200px;
+}
+
+path {
+    fill: #ffffff;
+}
+
+.title .img:hover {
+    filter: hue-rotate(360deg);
+}
+
+.title h1 {
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+}
+
+
+.info {
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+}
+
+.info p {
+    font-family: Hauora-Regular, serif;
+    padding: 35px;
+    font-size: 40px;
+    transition: all 500ms ease;
+}
+
+
+/* body {
+    height: 100vh;
+    background: radial-gradient(ellipse at bottom, #2c2c2cde 0%, hsl(0, 5%, 11%) 100%);
+    overflow: hidden;
+    filter: drop-shadow(0 0 10px rgb(0, 0, 0));
+  } */
+
+  
+
+  
+    
+  

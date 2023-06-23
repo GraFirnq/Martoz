@@ -1,0 +1,102 @@
+/* body {
+    margin: 0;
+} */
+
+/* 
+.command-about {
+    margin: 170px;
+    text-align: center;
+} */
+
+
+
+.contact { 
+    margin: auto;
+    padding-top: 190px;
+    display: flex;
+    padding-right: 180px;
+    padding-top: 10px;
+    width: 0px;
+    height: 0px;
+} 
+
+
+ .card {
+  padding-top: 170px;
+  width: 380px;
+  height: 420px;
+  color:white;
+  border-top: 0;
+  border-style: solid;
+  border-color: #408AD2;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  margin: auto;
+ 
+} 
+
+.text-about { 
+    font-size: 20px;
+    padding-top: 0px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+.text-about-name {
+    font-size: 40px;
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.skill-text {
+    padding-bottom: 15px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 1px 1px 1px #000;
+
+}
+
+.avatar {
+   padding: 15px; 
+   margin: auto;
+   display: flex;
+   width: 290px; /*  ширина  */
+   height: 290px; /*  длина  */
+   border-radius: 50%;  /* Скругление углов изображения */
+   /* border: 5px solid #fff; /* Цвет и ширину рамки */
+   box-shadow: 2px 1px 5px #ffffff; /* Цвет и размер тени */
+}
+
+
+.text-aboutme {
+    font-size: 10px;
+    color: white;
+    margin: auto;
+    display: flex;
+}
+
+/* .lineup {
+    padding-bottom: 20px;
+    display: flex;
+    margin: auto;
+    border-style: solid;
+    border-color:#408AD2;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    width: 1500px;
+} */
+
